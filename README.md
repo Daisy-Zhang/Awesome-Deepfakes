@@ -124,5 +124,6 @@ This repo only collect papers related to Deepfake Generation. If you are also in
 * "DeepFacePencil: Creating Face Images from Freehand Sketches", ACM MM 2020: [Paper](https://dl.acm.org/doi/10.1145/3394171.3413684)
 * "Talking Face Generation with Expression-Tailored Generative Adversarial Network", ACM MM 2020: [Paper](https://dl.acm.org/doi/10.1145/3394171.3413844)
 * "SimSwap: An Efficient Framework For High Fidelity Face Swapping", ACM MM 2020: [Paper](https://dl.acm.org/doi/10.1145/3394171.3413630)
+* "FakePolisher: Making DeepFakes More Detection-Evasive by Shallow Reconstruction", ACM MM 2020: [Paper](https://dl.acm.org/doi/10.1145/3394171.3413732)
 * "Towards Automatic Face-to-Face Translation", ACM MM 2019: [Paper](https://arxiv.org/abs/2003.00418v1)    [Github](https://github.com/Rudrabha/LipGAN)
 * "LinesToFacePhoto: Face Photo Generation From Lines With Conditional Self-Attention Generative Adversarial Networks", ACM MM 2019: [Paper](https://dl.acm.org/doi/10.1145/3343031.3350854)
