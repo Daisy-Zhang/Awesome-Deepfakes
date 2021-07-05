@@ -22,6 +22,7 @@ This repo only collect papers related to Deepfake Generation. If you are also in
   * [IJCAI](#ijcai)
   * [AAAI](#aaai)
   * [ACM MM](#acm-mm)
+  * [TPAMI](#tpami)
 
 
 
@@ -127,3 +128,7 @@ This repo only collect papers related to Deepfake Generation. If you are also in
 * "FakePolisher: Making DeepFakes More Detection-Evasive by Shallow Reconstruction", ACM MM 2020: [Paper](https://dl.acm.org/doi/10.1145/3394171.3413732)
 * "Towards Automatic Face-to-Face Translation", ACM MM 2019: [Paper](https://arxiv.org/abs/2003.00418v1)    [Github](https://github.com/Rudrabha/LipGAN)
 * "LinesToFacePhoto: Face Photo Generation From Lines With Conditional Self-Attention Generative Adversarial Networks", ACM MM 2019: [Paper](https://dl.acm.org/doi/10.1145/3343031.3350854)
+
+### TPAMI
+
+* "InterFaceGAN: Interpreting the Disentangled Face Representation Learned by GANs", TPAMI 2020: [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9241434)
