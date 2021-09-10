@@ -82,6 +82,7 @@ This repo only collect papers related to Deepfake Generation. If you are also in
 * **FaceSwap-GAN**: [Github](https://github.com/shaoanlu/faceswap-GAN)
 * **Face2Face**: [Github](https://github.com/datitran/face2face-demo)
 * **DeepFaceLab**: [Github](https://github.com/iperov/DeepFaceLab)
+* **DeepFaceLive**: [Github](https://github.com/iperov/DeepFaceLive)
 * **FaceSwap Online**: [Website](https://faceswap.dev/)
 * **MyVoiceYourFace**: [Website](https://myvoiceyourface.com/)
 * **Online Deepfake Maker**: [Website](https://deepfakesweb.com/)
