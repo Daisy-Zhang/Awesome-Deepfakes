@@ -109,6 +109,15 @@ This repo only collect papers related to Deepfake Generation. If you are also in
 
 ### ICCV
 
+* "Diagonal Attention and Style-based GAN for Content-Style Disentanglement in
+  Image Generation and Translation", ICCV 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kwon_Diagonal_Attention_and_Style-Based_GAN_for_Content-Style_Disentanglement_in_Image_ICCV_2021_paper.pdf)
+* "Dual Projection Generative Adversarial Networks for Conditional Image
+  Generation", ICCV 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Han_Dual_Projection_Generative_Adversarial_Networks_for_Conditional_Image_Generation_ICCV_2021_paper.pdf)
+* "LoFGAN: Fusing Local Representations for Few-shot Image Generation", ICCV 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_LoFGAN_Fusing_Local_Representations_for_Few-Shot_Image_Generation_ICCV_2021_paper.pdf) [Github](https://github.com/edward3862/LoFGAN-pytorch)
+* "Semi-Supervised Single-Stage Controllable GANs for Conditional Fine-Grained
+  Image Generation": [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Semi-Supervised_Single-Stage_Controllable_GANs_for_Conditional_Fine-Grained_Image_Generation_ICCV_2021_paper.pdf)
+* "Unsupervised Image Generation with Infinite Generative Adversarial Networks", ICCV 2021: [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ying_Unsupervised_Image_Generation_With_Infinite_Generative_Adversarial_Networks_ICCV_2021_paper.pdf) [Github](https://github.com/yinghdb/MICGANs)
+
 * "Make a Face: Towards Arbitrary High Fidelity Face Manipulation", ICCV 2019: [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qian_Make_a_Face_Towards_Arbitrary_High_Fidelity_Face_Manipulation_ICCV_2019_paper.pdf)
 * "FSGAN: Subject Agnostic Face Swapping and Reenactment", ICCV 2019: [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)    [Github](https://github.com/YuvalNirkin/fsgan)
 * "SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch and Color", ICCV 2019: [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Jo_SC-FEGAN_Face_Editing_Generative_Adversarial_Network_With_Users_Sketch_and_ICCV_2019_paper.pdf)    [Github](https://github.com/run-youngjoo/SC-FEGAN)
